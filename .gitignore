@@ -1,0 +1,15 @@
+# Real guest lists contain customer names and order IDs. Never commit or publish them.
+*.csv
+*.pdf
+samples/
+
+# Local tool settings
+.claude/settings.local.json
+
+# OS / editor junk
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Vercel CLI link
+.vercel/

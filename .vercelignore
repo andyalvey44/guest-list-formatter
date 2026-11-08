@@ -1,0 +1,5 @@
+# Never upload real guest lists to Vercel (CLI deploys ignore .gitignore rules otherwise)
+samples/
+*.csv
+*.pdf
+.claude/
